@@ -40,7 +40,7 @@ console.log(sensor("Edan tenan!", "emoji"));
 🧠 Daftar Kata Kasar yang Didukung
 
 Berikut beberapa contoh kata yang akan otomatis disensor:
-asu, jancuk, jancok, ndasmu, picek, edan, bodho, geblek, kontol, memek
+asu, jancuk, jancok, ndasmu, picek, edan, bodho, geblek, kontol, memek,dll
 
 🛠️ Kontribusi
 💡 Ide kata baru? Fitur tambahan?
