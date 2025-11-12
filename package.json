@@ -1,6 +1,6 @@
 {
   "name": "sensorjowo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sensor kata-kata kasar dalam bahasa Jawa",
   "main": "dist/index.js",
   "scripts": {
