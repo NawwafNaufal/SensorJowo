@@ -1,0 +1,22 @@
+{
+  "name": "sensorjowo",
+  "version": "1.0.0",
+  "description": "Sensor kata-kata kasar dalam bahasa Jawa",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "[\"sensor\"",
+    "\"jawa\"",
+    "\"profanity\"",
+    "\"filter\"]"
+  ],
+  "author": "Nawwaf Naufal",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
